@@ -1,0 +1,36 @@
+[33mcommit 71ba53af5e7c883ef0c7dcc109f9c56882a8a768[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Amar Balasaheb Wagh <amarwagh1481@gmail.com>
+Date:   Tue Jul 6 16:23:04 2021 +0530
+
+    Add New GitAdd.Docx File
+
+[33mcommit 3e4e365cfc3f1e69f5d35c3112d37c52632e3dad[m[33m ([m[1;32mdev2[m[33m)[m
+Merge: afcff8f 24aba7d
+Author: Amar Balasaheb Wagh <amarwagh1481@gmail.com>
+Date:   Tue Jul 6 15:02:23 2021 +0530
+
+    merge dev into dev2
+
+[33mcommit 24aba7d71e17d3a0ca693b24a5bca6b88a207270[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Amar Balasaheb Wagh <amarwagh1481@gmail.com>
+Date:   Tue Jul 6 14:31:51 2021 +0530
+
+    Create abcd Folder and create one a.txt in dev branch
+
+[33mcommit afcff8f620ca1618c9ea7b9982d9f91884fb48dc[m
+Author: Amar Balasaheb Wagh <amarwagh1481@gmail.com>
+Date:   Tue Jul 6 13:38:04 2021 +0530
+
+    again changes in Amar.txt
+
+[33mcommit b390c36be78730f30ad1beb5d1ad0b04f23e8394[m
+Author: Amar Balasaheb Wagh <amarwagh1481@gmail.com>
+Date:   Tue Jul 6 12:58:38 2021 +0530
+
+    change in Amar.txt file
+
+[33mcommit bd2b6b811bd5e5256e11247acd6791f1e9f8091d[m
+Author: Amar Balasaheb Wagh <amarwagh1481@gmail.com>
+Date:   Tue Jul 6 12:42:20 2021 +0530
+
+    first commit
